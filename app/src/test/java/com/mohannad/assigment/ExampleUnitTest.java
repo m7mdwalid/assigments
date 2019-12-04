@@ -1,4 +1,4 @@
-package com.mohannad.assigment1;
+package com.mohannad.assigment;
 
 import org.junit.Test;
 

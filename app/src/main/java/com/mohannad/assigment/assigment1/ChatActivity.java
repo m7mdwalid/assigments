@@ -1,14 +1,16 @@
-package com.mohannad.assigment1;
+package com.mohannad.assigment.assigment1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class EditProfileActivity extends AppCompatActivity {
+import com.mohannad.assigment.R;
+
+public class ChatActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_profile);
+        setContentView(R.layout.activity_chat);
     }
 }
