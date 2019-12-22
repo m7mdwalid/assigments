@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mohannad.assigment">
+    package="com.mohwalid.assigment">
 
     <application
         android:allowBackup="true"
@@ -9,17 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".assigment2.StudentInfoActivity"></activity>
-        <activity android:name=".assigment2.StudentListActivity">
+        <activity android:name="com.mohwalid.assigment.assigment2.StudentInfoActivity"></activity>
+        <activity android:name="com.mohwalid.assigment.assigment2.StudentListActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".assigment1.EditProfileActivity" />
-        <activity android:name=".assigment1.ChatActivity" />
-        <activity android:name=".assigment1.MainActivity"></activity>
+        <activity android:name="com.mohwalid.assigment.assigment1.EditProfileActivity" />
+        <activity android:name="com.mohwalid.assigment.assigment1.ChatActivity" />
+        <activity android:name="com.mohwalid.assigment.assigment1.MainActivity"></activity>
     </application>
 
 </manifest>

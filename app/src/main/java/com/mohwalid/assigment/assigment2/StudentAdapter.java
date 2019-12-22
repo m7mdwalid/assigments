@@ -1,4 +1,4 @@
-package com.mohannad.assigment.assigment2;
+package com.mohwalid.assigment.assigment2;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,7 +10,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.mohannad.assigment.R;
+import com.mohwalid.assigment.R;
 
 import java.util.List;
 

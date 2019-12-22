@@ -1,10 +1,10 @@
-package com.mohannad.assigment.assigment1;
+package com.mohwalid.assigment.assigment1;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.mohannad.assigment.R;
+import com.mohwalid.assigment.R;
 
 public class EditProfileActivity extends AppCompatActivity {
 

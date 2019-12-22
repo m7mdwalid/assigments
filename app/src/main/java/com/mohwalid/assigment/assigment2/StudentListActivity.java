@@ -1,11 +1,11 @@
-package com.mohannad.assigment.assigment2;
+package com.mohwalid.assigment.assigment2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-import com.mohannad.assigment.R;
+import com.mohwalid.assigment.R;
 
 import java.util.ArrayList;
 import java.util.List;

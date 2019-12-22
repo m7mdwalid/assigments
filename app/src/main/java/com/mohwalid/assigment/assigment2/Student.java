@@ -1,4 +1,4 @@
-package com.mohannad.assigment.assigment2;
+package com.mohwalid.assigment.assigment2;
 
 public class Student {
 

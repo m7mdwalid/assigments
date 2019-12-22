@@ -1,11 +1,11 @@
-package com.mohannad.assigment.assigment2;
+package com.mohwalid.assigment.assigment2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.mohannad.assigment.R;
+import com.mohwalid.assigment.R;
 
 public class StudentInfoActivity extends AppCompatActivity {
 
